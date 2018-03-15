@@ -1,0 +1,23 @@
+{
+  "name": "hadar-games",
+  "version": "1.0.0",
+  "description": "Making a game store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakeBurbach/hadar-games.git"
+  },
+  "author": "Blake Burbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlakeBurbach/hadar-games/issues"
+  },
+  "homepage": "https://github.com/BlakeBurbach/hadar-games#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
